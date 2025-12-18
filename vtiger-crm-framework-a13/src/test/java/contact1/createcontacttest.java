@@ -18,6 +18,8 @@ import generic_utility.WebDriverUtility;
 
 public class createcontacttest {
 public static void main(String args[]) throws InterruptedException, IOException {
+	
+	//Version Control System - Git
 
 //__________________GET DATA FROM PROPERTIES FILES____________________________________________	
 //	FileInputStream fis = new FileInputStream("./src/test/resources/commondata.properties");
